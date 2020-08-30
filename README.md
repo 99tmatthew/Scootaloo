@@ -17,6 +17,8 @@ To use the program, follow these steps:
 1. Double click a list item to connect to that device
 1. Use the gamepad, the five targetting buttons, or the text input to send "commands" to the connected device.
 
+![GUI Screenshot](GUI-readme.png)
+
 ## Known Bugs
 Due to the time constraints of the course and the higher priority of many other robot functions, this program does contain many bugs. Most notably, the gamepad __must be plugged in before starting the program__, and that __switching which device to communicate with may require restarting the program__. These are fixable, but were not considered worth fixing compared to other prioritized failure modes on the robot from our failure modes and effects analysis (FMEA). During competition our solution was to simply restart the program.
 
